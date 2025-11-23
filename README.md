@@ -42,8 +42,8 @@ The extension accurately parses and converts the following curl options:
 
 1. **Download the Extension**
    ```bash
-   git clone https://github.com/yourusername/burp-curl-converter.git
-   cd burp-curl-converter
+   git clone https://github.com/Gauravjha68535/Curl-To-Repeater.git
+   cd Curl-To-Repeater
    ```
 
 2. **Open Burp Suite** and navigate to the **Extensions** tab (usually in the bottom panel)
