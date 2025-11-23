@@ -1,10 +1,10 @@
-# Burp Suite Curl to HTTP Converter
+# Burp Suite Curl to Repeater
 
 A powerful and accurate Burp Suite extension that converts bash curl commands into properly formatted HTTP requests with real-time parsing and Repeater integration.
 
 ## Overview
 
-**Curl to HTTP Converter** is a Burp Suite extension designed to streamline penetration testing and API security testing workflows. Instead of manually converting curl commands to HTTP requests, simply paste your curl command and instantly get a properly formatted HTTP request that you can edit, inspect, and send directly to Burp Repeater for further testing.
+**Curl to Repeater** is a Burp Suite extension designed to streamline penetration testing and API security testing workflows. Instead of manually converting curl commands to HTTP requests, simply paste your curl command and instantly get a properly formatted HTTP request that you can edit, inspect, and send directly to Burp Repeater for further testing.
 
 This extension is essential for security researchers, penetration testers, and developers who frequently work with curl commands and need to quickly convert them for testing in Burp Suite.
 
@@ -41,10 +41,7 @@ The extension accurately parses and converts the following curl options:
 ### Step-by-Step Installation
 
 1. **Download the Extension**
-   ```bash
-   git clone https://github.com/Gauravjha68535/Curl-To-Repeater.git
-   cd Curl-To-Repeater
-   ```
+   Download the python file
 
 2. **Open Burp Suite** and navigate to the **Extensions** tab (usually in the bottom panel)
 
